@@ -1,6 +1,6 @@
 # name : beforeEach(() => { ... })
 # contributor : Seong Yong-ju <sei40kr@gmail.com>
-# key: beforeEach
+# key: before-each
 # --
 
 beforeEach(() => {

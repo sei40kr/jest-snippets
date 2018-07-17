@@ -1,6 +1,6 @@
 # name : afterEach(() => { ... })
 # contributor : Seong Yong-ju <sei40kr@gmail.com>
-# key: afterEach
+# key: after-each
 # --
 
 afterEach(() => {
