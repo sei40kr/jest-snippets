@@ -4,4 +4,4 @@
 - [[#description][Description]]
 
 * Description
-yasnippet snippets for Jest.
+Jest snippets for yasnippet.
